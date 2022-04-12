@@ -4,11 +4,7 @@ Repo: https://github.com/ucsb-cs156-s22/jpa02-SrijitBoinapally
 
 On Heroku: https://jpa02-srijit.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa02-SrijitBoinapally/branch/main
 
 
 # About this repo
