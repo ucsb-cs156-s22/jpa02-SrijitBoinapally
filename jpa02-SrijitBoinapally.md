@@ -1,24 +1,8 @@
 # STARTER-jpa02
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa02` above
-  to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
-  this TODO item.
+Repo: https://github.com/ucsb-cs156-s22/jpa02-SrijitBoinapally
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s22/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-s22/STARTER-jpa02
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-s22-jpa02-cgaucho.herokuapp.com
-
-
-On Heroku: https://cs156-s22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-srijit.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
